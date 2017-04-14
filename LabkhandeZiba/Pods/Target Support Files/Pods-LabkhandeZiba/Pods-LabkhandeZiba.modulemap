@@ -1,0 +1,6 @@
+framework module Pods_LabkhandeZiba {
+  umbrella header "Pods-LabkhandeZiba-umbrella.h"
+
+  export *
+  module * { export * }
+}
